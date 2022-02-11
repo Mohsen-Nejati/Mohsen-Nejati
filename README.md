@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohsen-Nejati
 - 👀 I’m interested in wed and android development
-- 🌱 I’m currently learning BigData
 - 💞️ I’m looking to collaborate on web and android development
 - 📫 How to reach me : my Email is mohsen.nejati23@gmail.com
 
